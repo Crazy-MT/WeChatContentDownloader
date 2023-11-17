@@ -1,0 +1,2 @@
+# WeChatContentDownloader
+WeChatContentDownloader 是一个用于下载微信公众号内容的 Python 工具，它可以帮助用户轻松下载视频、图片和文字内容。
